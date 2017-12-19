@@ -32,7 +32,7 @@ Design considerations:
 
 Deliverables:
 --------------
-1. Class diagram. (20)
-2. Working code. You can include the code in SDD if that's what you prefer. (60)
-3. 10-15 minute demo with TA. Setup time with TA. One demo par pair. (20)
+1. Class diagram. 
+2. Working code. You can include the code in SDD if that's what you prefer. 
+3. 10-15 minute demo with TA. Setup time with TA. One demo par pair. 
 
