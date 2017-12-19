@@ -1,11 +1,7 @@
 # Currency-Rate-Notification-System
 
-Project
-
-Due Date: 07/31/2017 23:59:59
-
-Problem Statement: 
-------------------
+Project Problem Statement: 
+--------------------------
 A Currency broker company has asked us to build a system that notifies them when a currency pair rate reaches the target rate. User configures the currency pair and target rate.
 
 The URL to get the Rates in XML form: "http://rates.fxcm.com/RatesXML"
